@@ -1,0 +1,1 @@
+cmd.exe /c echo boot > C:\RGB_boot_flag.txt

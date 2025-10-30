@@ -1,0 +1,8 @@
+# below are the python module requirements for the RGBController GUI to function properly
+# install these with 'pip install -r requirements.txt' or via the make.ps1 file
+
+# these requirements are mandatory for the application to function
+pyinstaller
+pystray
+
+# all other modules are part of the standard python library
